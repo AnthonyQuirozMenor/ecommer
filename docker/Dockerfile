@@ -1,4 +1,4 @@
-FROM eclipse-termurin:17-jdk-jammy
+FROM eclipse-temurin:17-jdk-jammy
 
 #configuración de la aplicación
 ENV APP_HOME=/ecommerce-app
