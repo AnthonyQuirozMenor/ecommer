@@ -12,7 +12,7 @@ spring:
     url: jdbc:mysql://db/ecommerce_lp2_prod?serverTimezone=America/Lima&useSSL=false&allowPublicKeyRetrieval=true
     #url: jdbc:mysql://localhost:3307/ecommerce_lp2_prod?serverTimezone=America/Lima&useSSL=false
     username: root
-    password: 'admin123'
+    password: admin123
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
